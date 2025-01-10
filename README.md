@@ -1,0 +1,1 @@
+This project uses twitter data from 2020 to analyze sentiment of tweets to predict the presidential candidate. In order to gain access to the dataset download them from this kaggle link. Github currently can't support the size of the dataset. https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets
